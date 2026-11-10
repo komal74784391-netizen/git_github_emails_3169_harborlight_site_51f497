@@ -1,0 +1,39 @@
+{
+  "lab": "Harborlight Research Lab",
+  "cycle": "2026-Q4",
+  "papers": [
+    {
+      "paper_id": "P-2201",
+      "title": "Adaptive Token Fusion for Long-Context Retrieval",
+      "short_name": "ATF",
+      "repository": "git_github_emails_3169_harborlight_atf_51f497",
+      "venue": "Under review"
+    },
+    {
+      "paper_id": "P-2202",
+      "title": "Graph Distillation for Low-Resource Relational Learning",
+      "short_name": "GDRL",
+      "repository": "git_github_emails_3169_harborlight_gdrl_51f497",
+      "venue": "Under review"
+    },
+    {
+      "paper_id": "P-2203",
+      "title": "Cross-Modal Anchoring for Sparse Vision-Language Alignment",
+      "short_name": "CMA",
+      "repository": "git_github_emails_3169_harborlight_cma_51f497",
+      "venue": "Under review"
+    },
+    {
+      "paper_id": "P-2204",
+      "title": "Streaming Adaptive Sampling for Recommendation Systems",
+      "short_name": "SASR",
+      "venue": "Under review"
+    },
+    {
+      "paper_id": "P-2205",
+      "title": "Calibrated Quantization for Edge Inference",
+      "short_name": "CQE",
+      "venue": "Under review"
+    }
+  ]
+}
