@@ -1,5 +1,31 @@
 {
-  "lab": "Harborlight Research Lab",
-  "cycle": "2026-Q3",
-  "papers": []
+  "papers": [
+    {
+      "paper_id": "P-2201",
+      "title": "Adaptive Token Fusion for Long-Context Retrieval",
+      "venue": "SNIS 2026",
+      "code_url": "https://github.com/komal74784391-netizen/git_github_emails_3169_harborlight_codebase_51f497/tree/main/atf"
+    },
+    {
+      "paper_id": "P-2202",
+      "title": "Graph Distillation for Low-Resource Relational Learning",
+      "venue": "SNIS 2026",
+      "code_url": "https://github.com/komal74784391-netizen/git_github_emails_3169_harborlight_codebase_51f497/tree/main/gdrl"
+    },
+    {
+      "paper_id": "P-2203",
+      "title": "Cross-Modal Anchoring for Sparse Vision-Language Alignment",
+      "venue": "SNIS 2026"
+    },
+    {
+      "paper_id": "P-2204",
+      "title": "Streaming Adaptive Sampling for Recommendation Systems",
+      "venue": "SNIS 2026"
+    },
+    {
+      "paper_id": "P-2205",
+      "title": "Calibrated Quantization for Edge Inference",
+      "venue": "Under review"
+    }
+  ]
 }
